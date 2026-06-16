@@ -1,0 +1,11 @@
+pandas
+numpy>=1.23.5,<2.0.0
+opencv-python
+matplotlib
+pydicom
+scikit-learn
+tqdm
+PyYAML
+ultralytics
+torch
+torchvision

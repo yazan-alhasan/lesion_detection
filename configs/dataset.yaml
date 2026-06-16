@@ -1,0 +1,15 @@
+path: data/processed
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Architectural Distortion
+  1: Asymmetry
+  2: Focal Asymmetry
+  3: Global Asymmetry
+  4: Mass
+  5: Nipple Retraction
+  6: Skin Retraction
+  7: Skin Thickening
+  8: Suspicious Calcification
+  9: Suspicious Lymph Node

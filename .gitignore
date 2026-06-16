@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# VinDr-Mammo data and generated artifacts
+data/raw/images/*
+data/raw/*.csv
+data/raw/*.dicom
+data/raw/**/*.dicom
+data/processed/images/*
+data/processed/labels/*
+data/processed/image_metadata.csv
+runs/*
+*.pt
+*.pth
+*.onnx
+
+# Keep placeholders
+!runs/.gitkeep
+!data/processed/images/.gitkeep
+!data/processed/labels/.gitkeep
+!data/raw/images/.gitkeep

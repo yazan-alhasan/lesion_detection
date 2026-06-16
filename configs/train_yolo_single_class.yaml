@@ -1,0 +1,10 @@
+data: configs/dataset_single_class.yaml
+model: yolov8n.pt
+imgsz: 640
+epochs: 80
+batch: 2
+project: runs/yolo
+name: vindr_single_class_yolov8n_gpu_640
+device: 0
+workers: 0
+single_cls: true
