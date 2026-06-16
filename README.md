@@ -17,7 +17,7 @@ requirements.txt          Python dependencies
 
 ## Setup
 
-Create and activate a virtual environment, then install the dependencies:
+This project has been checked with Python 3.9.13. Create and activate a virtual environment, then install the dependencies:
 
 ```bash
 python -m venv .venv
