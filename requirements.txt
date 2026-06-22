@@ -9,3 +9,5 @@ PyYAML==6.0.3
 ultralytics==8.4.66
 torch==2.8.0
 torchvision==0.23.0
+torchmetrics
+pycocotools
